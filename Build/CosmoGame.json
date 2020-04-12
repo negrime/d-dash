@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "D-dash by negrime",
+"productVersion": "0.1",
+"dataUrl": "CosmoGame.data.unityweb",
+"wasmCodeUrl": "CosmoGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "CosmoGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "CosmoGame.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
